@@ -2,6 +2,9 @@
 
 A Flutter project that generates and manages random English word pairs. The app features the ability to save favorite word pairs, view their history, and switch seamlessly between different pages using adaptive layouts.
 
+![photo-collage png (2)](https://github.com/user-attachments/assets/ec8e937c-02a8-4d8d-a20d-17d6fc0f95fa)
+
+
 ## Features
 
 - **Random Word Pair Generation:** Generates random English word pairs using the `english_words` package.
